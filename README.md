@@ -32,7 +32,7 @@ Password-gated. Ask for the access code.
 ## The four decisions (Mission 1)
 
 1. Risk cases (`compliance_file`, `withdrawal_hold`) jump the queue, in two tiers
-2. Every case type gets a named owner, and a deadline the data sets — not a round number
+2. Every case type gets a named owner (per speciality), and a deadline for the data sets
 3. Version changes are tracked continuously, with a real gate: at least 10 failures on each side before a rate is trusted. Roll back or fix
 4. A real, specific reason required at execution, not the generic placeholder the system already logs and hides today
 
