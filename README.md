@@ -6,7 +6,7 @@ The brief (`brief.md`) is deliberately under-specified — no schema for the dat
 
 ## Live app
 
-🔗 *link to be added once published*
+🔗 **https://finary-ops-assessment.streamlit.app/**
 
 Password-gated. Ask for the access code.
 
