@@ -49,4 +49,4 @@ Drop `job_id.csv` and `events.csv` in the sidebar to load the real data — both
 
 ## On assumptions
 
-No schema was given for the two tables, on purpose. Every definition used in the tool and the docs — what counts as "risky," "stuck," "done," or "owner" — is inferred from the shape of the data, not a given fact, and is adjustable live in the tool's **⚙️ Grown-up settings** rather than hardcoded. `MISSION_1.md` flags the load-bearing judgment calls as they come up
+Every definition used in the tool and the docs, what counts as "risky," "stuck," "done," or "owner", is inferred from the shape of the data, and is adjustable live in the tool's **⚙️ Grown-up settings** rather than hardcoded. `MISSION_1.md` flags the load-bearing judgment calls as they come up
