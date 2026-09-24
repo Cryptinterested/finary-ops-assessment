@@ -10,7 +10,7 @@ Password-gated. Ask for the access code.
 
 ## Key files
 
-This repo has several files that show my process, but only three are the actual deliverables: **`MISSION_1.md`**, **`MISSION_2.md`**, and **the tool** (`app.py`). Everything else here is supporting material — useful for following the reasoning, not something to grade on its own.
+This repo has several files that show my process, but only four are the actual deliverables: **`MISSION_1.md`**, **`MISSION_2.md`**, **`MEMO.md`**, and **the tool** (`app.py`). Everything else here is supporting material — useful for following the reasoning, not something to grade on its own.
 
 **The deliverables:**
 
@@ -18,13 +18,13 @@ This repo has several files that show my process, but only three are the actual 
 |---|---|
 | `MISSION_1.md` | **Mission 1**: how operations should run six months from now, four decisions defended with real numbers, and what I built |
 | `MISSION_2.md` | **Mission 2**: how I'd run the team of five this quarter, ownership, governance, rhythm |
+| `MEMO.md` | The 300-word memo required alongside Mission 2, dated Monday of week one |
 | `app.py` | **The tool**: a Streamlit dashboard, built on the real data, kept in lockstep with `MISSION_1.md` |
 
 **Supporting material — shows the logic, not separately graded:**
 
 | File | What it is |
 |---|---|
-| `MEMO.md` | The 300-word memo required alongside Mission 2, dated Monday of week one |
 | `PLAN.md` | Working notes: data exploration, raw findings, and how they map to the decisions above |
 | `what_i_did.txt` | A running log of my own prompting steps building this |
 | `requirements.txt` | Python dependencies |
