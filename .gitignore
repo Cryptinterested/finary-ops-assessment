@@ -1,6 +1,7 @@
-# Data (kept local — not published, per assessment confidentiality)
+# Data and brief (kept local — not published, per assessment confidentiality)
 job_id.csv
 events.csv
+brief.md
 
 # Python / venv
 finary-env/

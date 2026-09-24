@@ -10,17 +10,26 @@ Password-gated. Ask for the access code.
 
 ## Key files
 
+This repo has several files that show my process, but only three are the actual deliverables: **`MISSION_1.md`**, **`MISSION_2.md`**, and **the tool** (`app.py`). Everything else here is supporting material — useful for following the reasoning, not something to grade on its own.
+
+**The deliverables:**
+
 | File | What it is |
 |---|---|
-| `brief.md` | The assignment brief, as given |
-| `PLAN.md` | Working notes, data exploration, raw findings, and how they map to the decisions below. Not a deliverable, but the reasoning behind everything else here |
 | `MISSION_1.md` | **Mission 1**: how operations should run six months from now, four decisions defended with real numbers, and what I built |
 | `MISSION_2.md` | **Mission 2**: how I'd run the team of five this quarter, ownership, governance, rhythm |
-| `MEMO.md` | memo to the five, dated Monday of week one |
-| `app.py` | The tool: a Streamlit dashboard, built on the real data, kept in lockstep with `MISSION_1.md` |
-| `job_id.csv` / `events.csv` | The two source tables, one row per case, and the full step-by-step event log behind it |
-| `requirements.txt` | Python dependencies |
+| `app.py` | **The tool**: a Streamlit dashboard, built on the real data, kept in lockstep with `MISSION_1.md` |
+
+**Supporting material — shows the logic, not separately graded:**
+
+| File | What it is |
+|---|---|
+| `MEMO.md` | The 300-word memo required alongside Mission 2, dated Monday of week one |
+| `PLAN.md` | Working notes: data exploration, raw findings, and how they map to the decisions above |
 | `what_i_did.txt` | A running log of my own prompting steps building this |
+| `requirements.txt` | Python dependencies |
+
+`job_id.csv` / `events.csv` (the two source tables) and the assignment brief itself are intentionally left out of this repo — not mine to publish.
 
 ## What the data actually showed
 
