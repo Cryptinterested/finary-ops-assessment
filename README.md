@@ -19,7 +19,7 @@ This repo has several files that show my process, but only four are the actual d
 | `MISSION_1.md` | **Mission 1**: how operations should run six months from now, four decisions defended with real numbers, and what I built |
 | `MISSION_2.md` | **Mission 2**: how I'd run the team of five this quarter, ownership, governance, rhythm |
 | `MEMO.md` | The 300-word memo required alongside Mission 2, dated Monday of week one |
-| `app.py` | **The tool**: a Streamlit dashboard, built on the real data, kept in lockstep with `MISSION_1.md` |
+| `app.py` | **The tool**: a Streamlit dashboard, built on the real data, kept in lockstep with `MISSION_1.md` — live at **[finary-ops-assessment.streamlit.app](https://finary-ops-assessment.streamlit.app/)** |
 
 **Supporting material — shows the logic, not separately graded:**
 
