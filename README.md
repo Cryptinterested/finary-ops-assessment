@@ -1,8 +1,6 @@
 # Finary Ops Assessment
 
-A take-home exercise for an operations role at Finary: two short written pieces and one working tool, built on eight weeks of real (synthetic) data describing how an AI agent handles Finary's regulated case volume, with a five-person team reviewing and approving its work.
-
-The brief (`brief.md`) is deliberately under-specified — no schema for the data, no fixed list of decisions to make. Figuring out what's missing, and saying so, is part of the exercise.
+A take-home assessment for an operations role at Finary: two short written pieces and one working dashboard, built on real (synthetic) data.
 
 ## Live app
 
