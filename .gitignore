@@ -1,0 +1,13 @@
+# Data (kept local — not published, per assessment confidentiality)
+job_id.csv
+events.csv
+
+# Python / venv
+finary-env/
+__pycache__/
+*.pyc
+
+# Local tool state
+.claude/
+streamlit.log
+.DS_Store

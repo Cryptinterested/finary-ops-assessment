@@ -1,0 +1,45 @@
+1: Create a dir (mkdir finary_assessment) and upload the csv as well as the assignement brief
+2: Feed context, note, mission, deliverable into brief.md
+3: Run claude code on what this means, blind spots and create a PLAN to answer to the questions (plan in PLAN.md)
+4: Then we make decisions. in Decision 1 the trigger is compliance_file/withdrawal_hold... Highlight it on both the dashboard and the Mission_1.md doc
+5: remove the emojis, also i want '⚙️ Grown-up settings' below 90'...default to 90%...adapt and match with right numbers
+6: adjust it to the problem as well, so that it matches with rule chosen
+7: remov unecessary dahses. Either use . or ,
+8: This is the new Decision 1: Prioritise case types involving real money or compliance risk...
+9: both should be merged, High risk cases are both unseen and directly dropped but also seen but when they are about compliance_file/withdrawal_hold, so the number should be the same on both pages
+10: to add to Decision 1...tier one are at risk issues...tier 2 priority jobs completed with failures
+11: now, Decision 2, introduce deadline SLA. Exclude the link with '🔄 Did the last change help?' because it's not linked...
+12: now Decision 3, it's about an agent to track version failures in order to re run with older version or improve the agent
+13: Now trim Mission_1.md down to two pages
+14: remove decision 5 and but the decisions in what to fix straight after each others
+15: Now remove What we're seeing right now from What to fix fisrt
+16: from page What to fix, shouldn't '240 cases have gone past their deadline...' be part of Decision 2? it seems redundant
+17: remove Tier 2 — completed with failure from What to fix, but create Case types Tier 1 and Tier 2 in Cases waiting
+18: now move to Decision 4
+19: undo last changes on Cases waiting (for both tier 1 & 2 highlight)
+20: trim MISSION_1.md back down to two pages
+21: in Overview page, add a metric, number of Open cases and and avegrage age of open cases
+22: check MISSION_1.md still matches the app exactly
+23: now going to 'Did we explain why?' page, which value does this one bring. Couldn't we do better?
+24: build. I want it to be easily readable
+25: remove page 🔁 How much do we redo? it doesnt bring much
+26: are there things unused in '⚙️ Grown-up settings'? if yes remove
+27: where is 'How strict should 'stuck' mean?' used?
+28: where is 'Hours to wait before flagging a dead end' used?
+29: i want a last page, not apparent in 'Start here' but part of the menu where to go. It'll allow to select a user (team member), have stats (success closure rate, backlog lenght, speciality realted to what he/she clsoed the most) and the backlog of cases attributed  ranked by tier 1, tier 2 and the rest
+30: from page  Check one team member speciality should exlcude triage from calculation, recompute
+31: update mission_1.md accordingly, especially what the tool i built does and key things it higlights. Also fix Mission_2 if necessary
+32: put together a review plan for tomorrow. We'll review the app and make sure it answer the mission and context in brief.md
+33: the brief says: everything is deliberately under-specified. Where you need an assumption, make it and say so, deciding what's missing is part of the exercise. It seems not clear in MISSION_1.md where i made assumptions
+34: in MISSION_1.md, the first point : 'Fives places...' is not very clear, what are these five points?
+35: in MISSION_1.md Decision 3, it's not clear when you say: `withdrawal_hold`'s last update looked worse (3.5% → 5.0%), but only 4 failures each time
+36: adusted missions 1, have a look
+37: i fixed the typo. the new content is intentional
+38: now check MISSION_2.md
+39: i fixed Bug and Ambiguous, please check
+40: fixed, please check
+41: now fix 'Check one team member' page to make sure it reflect line 21 from MISSION_2.md
+42: next, when i tell you we'll reveiw MEMO.md
+43: review MEMO.md now
+44: yes fix it
+45: write my prompting steps to what_i_did.txt, higlighting main prompts (most relevant) line by line. PReserve the syntax
